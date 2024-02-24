@@ -17,4 +17,5 @@ The US Census population and CDC datasets include the following parameters:
 1. Influenza deaths by geography, time, age, and gender
 2. Population data by geography
 # Tableau Presentation
+https://public.tableau.com/app/profile/meredith.flahan/viz/Task2_9_Flahan/PreparingforFluSeason
 
