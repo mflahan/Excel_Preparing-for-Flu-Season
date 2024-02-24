@@ -1,4 +1,4 @@
-# Excel_Preparing-for-Flu-Season
+# Excel_Tableau_Influenza_Project
 Demonstration of Excel and Tableau for analysis of US CDC and Census data to develop staffing allocation recommendations
 # Project Objective
 Motivation: The United States has an influenza season where more people than usual
